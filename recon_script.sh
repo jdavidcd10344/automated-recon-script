@@ -1,7 +1,8 @@
 #!/bin/bash
 
 """
-Description: Brief description of what your script does
+Description: A Bash script for automated domain reconnaissance that performs subdomain enumeration, 
+active subdomain verification, historical URL extraction, and vulnerability pattern filtering.
 Author: jdcd333
 Version: 1.0
 """
