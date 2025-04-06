@@ -19,3 +19,22 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+### Additional GitHub Files
+
+1. **LICENSE** (MIT recommended)
+2. **.gitignore** (should include `target_domain.txt` and output files if you want them excluded)
+3. **requirements.txt** (list of tools needed)
+4. **CONTRIBUTING.md** (optional, for collaboration guidelines)
+
+### Tags
+`security` `reconnaissance` `bug-bounty` `subdomains` `web-security` `bash-script`
+
+### Recommended GitHub Topics
+- web-security
+- recon-tool
+- bug-bounty-tools
+- subdomain-enumeration
+- bash-automation
+
+This setup provides a professional GitHub repository with all necessary documentation for others to use your script effectively.
