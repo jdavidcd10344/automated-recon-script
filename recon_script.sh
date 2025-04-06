@@ -1,5 +1,11 @@
 #!/bin/bash
 
+"""
+Description: Brief description of what your script does
+Author: jdcd333
+Version: 1.0
+"""
+
 # Configuration
 RATE_LIMIT=30  # Requests per minute to avoid blocks
 
